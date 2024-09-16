@@ -1,5 +1,3 @@
-package org.com;
-
 import java.lang.*;
 import java.util.*;
 
